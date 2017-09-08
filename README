@@ -4,5 +4,5 @@ C# Pushdown Automata
 A C# implementation of pushdown automata.
 
 See 
-  http://owenstephens.co.uk/programming/2010/12/22/csharp-pushdown-automaton.html
+  http://owenstephens.co.uk/blog/2010/12/22/csharp-pushdown-automaton.html
 for an example usage.
